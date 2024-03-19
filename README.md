@@ -1,6 +1,6 @@
 
 ## **SETUP:**
 ```
-Configure you discord webhook token in index.html
+Configure your discord webhook token in index.html
 ```
 
